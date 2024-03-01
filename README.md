@@ -1,5 +1,11 @@
 # Project-Example-4
 
+
+
+Bu proje, Docker Compose kullanarak MongoDB'nin bir konteynerde çalıştırılmasını, bir CSV dosyasının bu MongoDB'ye yüklenmesini ve daha sonra Pandas ve Matplotlib kütüphaneleri kullanılarak veri analizlerinin gerçekleştirilmesini içerir.
+
+
+
 ![2024-03-01_15-32](https://github.com/afaruksargin/Project-Example-4/assets/114520791/9c31f8c0-7e7a-4119-aeba-e692a594dd1d)
 
 
